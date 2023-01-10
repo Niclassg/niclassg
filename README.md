@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[My Github page](niclassg.github.io).
+[My Github page](https://niclassg.github.io).
 
 
 <!--
