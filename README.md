@@ -2,7 +2,7 @@
 
 - [My Github page](https://niclassg.github.io)
 - [dev.to](https://dev.to/niclassg)
-- [n19.app](n19.app)
+- [n19.app](https://n19.app)
 
 <!--
 **Niclassg/niclassg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
